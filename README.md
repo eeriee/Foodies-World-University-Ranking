@@ -1,0 +1,2 @@
+# Foodies-World-University-Ranking
+Yelp’s current functionalities only support the needs of generic restaurant-goers. However, we are seeing the needs of students planning for higher education / exchange programs and university faculty staff who travel regularly to different universities. Understanding the academic reputation of universities is indeed important, however, this web application can save all education lovers’ stomachs :).
