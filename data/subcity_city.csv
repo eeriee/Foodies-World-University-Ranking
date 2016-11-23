@@ -1,0 +1,307 @@
+subcity,state,country,city
+Dravosburg,PA,US,Pittsburgh
+Braddock,PA,US,Pittsburgh
+Carnegie,PA,US,Pittsburgh
+Pittsburgh,PA,US,Pittsburgh
+Homestead,PA,US,Pittsburgh
+Munhall,PA,US,Pittsburgh
+West Homestead,PA,US,Pittsburgh
+West Mifflin,PA,US,Pittsburgh
+McKees Rocks,PA,US,Pittsburgh
+Mc Kees Rocks,PA,US,Pittsburgh
+Bellvue,PA,US,Pittsburgh
+Bellevue,PA,US,Pittsburgh
+Swissvale,PA,US,Pittsburgh
+Aspinwall,PA,US,Pittsburgh
+Brookline,PA,US,Pittsburgh
+Mount Lebanon,PA,US,Pittsburgh
+Castle Shannon,PA,US,Pittsburgh
+Belmont,NC,US,Charlotte
+Huntersville,NC,US,Charlotte
+Matthews,NC,US,Charlotte
+Mount Holly,NC,US,Charlotte
+Pineville,NC,US,Charlotte
+Charlotte,NC,US,Charlotte
+Fort Mill,SC,US,Charlotte
+Lake Wylie,SC,US,Charlotte
+Clover,SC,US,Charlotte
+Rock Hill,SC,US,Charlotte
+De Forest,WI,US,Madison
+DeForest,WI,US,Madison
+Mc Farland,WI,US,Madison
+Middleton,WI,US,Madison
+Sun Prairie,WI,US,Madison
+Windsor,WI,US,Madison
+Madison,WI,US,Madison
+Monona,WI,US,Madison
+Urbana,IL,US,Urbana-Champaign
+Champaign,IL,US,Urbana-Champaign
+Savoy,IL,US,Urbana-Champaign
+Phoenix,AZ,US,Phoenix
+Scottsdale,AZ,US,Phoenix
+Glendale,AZ,US,Phoenix
+Ahwatukee,AZ,US,Phoenix
+Pheonix,AZ,US,Phoenix
+Anthem,AZ,US,Phoenix
+Mesa,AZ,US,Phoenix
+Gold Canyon,AZ,US,Phoenix
+Apache Junction,AZ,US,Phoenix
+Casa Grande,AZ,US,Phoenix
+Chandler,AZ,US,Phoenix
+Coolidge,AZ,US,Phoenix
+Florence,AZ,US,Phoenix
+Gilbert,AZ,US,Phoenix
+Queen Creek,AZ,US,Phoenix
+Sun Lakes,AZ,US,Phoenix
+Tempe,AZ,US,Phoenix
+Fountain Hills,AZ,US,Phoenix
+glendale,AZ,US,Phoenix
+Black Canyon City,AZ,US,Phoenix
+Buckeye,AZ,US,Phoenix
+Goodyear,AZ,US,Phoenix
+Litchfield Park,AZ,US,Phoenix
+Tonopah,AZ,US,Phoenix
+Surprise,AZ,US,Phoenix
+Peoria,AZ,US,Phoenix
+Wickenburg,AZ,US,Phoenix
+Sedona,AZ,US,Phoenix
+Henderson,NV,US,Las Vegas
+Las Vegas,NV,US,Las Vegas
+North Las Vegas,NV,US,Las Vegas
+N Las Vegas,NV,US,Las Vegas
+N. Las Vegas,NV,US,Las Vegas
+Mount Washington,PA,US,Pittsburgh
+Sharpsburg,PA,US,Pittsburgh
+Wilkinsburg,PA,US,Pittsburgh
+Brentwood,PA,US,Pittsburgh
+Crafton,PA,US,Pittsburgh
+Concord,NC,US,Charlotte
+Concord Mills,NC,US,Charlotte
+Harrisburg,NC,US,Charlotte
+Indian Trail,NC,US,Charlotte
+McAdenville,NC,US,Charlotte
+Mint Hill,NC,US,Charlotte
+Pittsburgh,FL,US,
+Cottage Grove,WI,US,Madison
+Fitchburg,WI,US,Madison
+Stoughton,WI,US,Madison
+Verona,WI,US,Madison
+Waunakee,WI,US,Madison
+Cave Creek,AZ,US,Phoenix
+New River,AZ,US,Phoenix
+Mesa AZ,AZ,US,Phoenix
+Maricopa,AZ,US,Phoenix
+Paradise Valley,AZ,US,Phoenix
+Rio Verde,AZ,US,Phoenix
+Guadalupe,AZ,US,Phoenix
+Avondale,AZ,US,Phoenix
+El Mirage,AZ,US,Phoenix
+Gila Bend,AZ,US,Phoenix
+Sun City,AZ,US,Phoenix
+Tolleson,AZ,US,Phoenix
+Youngtown,AZ,US,Phoenix
+Sun City West,AZ,US,Phoenix
+Carefree,AZ,US,Phoenix
+Las Vegas,NM,US,
+Boulder City,NV,US,Las Vegas
+Green Valley,NV,US,Las Vegas
+North Scottsdale,AZ,US,Phoenix
+Regent Square,PA,US,Pittsburgh
+Laveen,AZ,US,Phoenix
+Higley,AZ,US,Phoenix
+Morristown,AZ,US,Phoenix
+Las Vegas ,NV,US,Las Vegas
+Fort McDowell,AZ,US,Phoenix
+Shadyside,PA,US,Pittsburgh
+Mattews,NC,US,Charlotte
+Montr€÷al,QC,Canada,Montreal
+Anjou,QC,Canada,Montreal
+Saint-Leonard,QC,Canada,Montreal
+Montreal-Nord,QC,Canada,Montreal
+Montr€÷al-Nord,QC,Canada,Montreal
+Pointe-Aux-Trembles,QC,Canada,Montreal
+Montreal,QC,Canada,Montreal
+Outremont,QC,Canada,Montreal
+Mont€÷al,QC,Canada,Montreal
+Montreal-Est,QC,Canada,Montreal
+Verdun,QC,Canada,Montreal
+Westmount,QC,Canada,Montreal
+Mont-Royal,QC,Canada,Montreal
+Saint-Laurent,QC,Canada,Montreal
+Laval,QC,Canada,Montreal
+Fabreville,QC,Canada,Montreal
+Vimont,QC,Canada,Montreal
+Lasalle,QC,Canada,Montreal
+Lachine,QC,Canada,Montreal
+Pierrefonds,QC,Canada,Montreal
+Dollard-Des-Ormeaux,QC,Canada,Montreal
+Dollard-des-Ormeaux,QC,Canada,Montreal
+Dorval,QC,Canada,Montreal
+Pointe-Claire,QC,Canada,Montreal
+Kirkland,QC,Canada,Montreal
+Sainte-Anne-De-Bellevue,QC,Canada,Montreal
+Sainte-Genevieve,QC,Canada,Montreal
+Baie-D'urfe,QC,Canada,Montreal
+Brossard,QC,Canada,Montreal
+Saint-Lambert,QC,Canada,Montreal
+Greenfield Park,QC,Canada,Montreal
+Saint-Hubert,QC,Canada,Montreal
+Longueuil,QC,Canada,Montreal
+La Prairie,QC,Canada,Montreal
+Terrebonne,QC,Canada,Montreal
+Bois-Des-Filion,QC,Canada,Montreal
+Lachenaie,QC,Canada,Montreal
+Sainte-Therese,QC,Canada,Montreal
+Rosemere,QC,Canada,Montreal
+Saint-Eustache,QC,Canada,Montreal
+Boisbriand,QC,Canada,Montreal
+Blainville,QC,Canada,Montreal
+Deux-Montagnes,QC,Canada,Montreal
+Kitchener,ON,Canada,Waterloo
+Waterloo,ON,Canada,Waterloo
+Cambridge,ON,Canada,Waterloo
+Dallas,TX,US,
+Edinburgh,EDH,UK,Edinburgh
+Edinburgh,MLN,UK,
+Leith,EDH,UK,Edinburgh
+South Queensferry,EDH,UK,Edinburgh
+Dalkeith,MLN,UK,
+Inverkeithing,FIF,UK,Edinburgh
+Musselburgh,ELN,UK,
+Bridgeville,PA,US,Pittsburgh
+Lasswade,MLN,UK,
+Newbridge,EDH,UK,Edinburgh
+Currie,EDH,UK,Edinburgh
+Juniper Green,EDH,UK,Edinburgh
+Ratho,EDH,UK,Edinburgh
+Green Tree,PA,US,Pittsburgh
+San Tan Valley,AZ,US,Phoenix
+Stallings,NC,US,Charlotte
+Nellis Afb,NV,US,Las Vegas
+Spring Valley,NV,US,Las Vegas
+Paradise,NV,US,Las Vegas
+Mt. Oliver Boro,PA,US,Pittsburgh
+Tortilla Flat,AZ,US,Phoenix
+Tega Cay,SC,US,Charlotte
+McFarland,WI,US,Madison
+Monroe,NC,US,Charlotte
+Edgewood,PA,US,Pittsburgh
+Tonto Basin,AZ,US,Phoenix
+Nellis AFB,NV,US,Las Vegas
+St Jacobs,ON,Canada,Waterloo
+Beaconsfield,QC,Canada,Montreal
+Queensferry,EDH,UK,Edinburgh
+Rheinstetten,BW,Germany,Karlsruhe
+Ettlingen,BW,Germany,Karlsruhe
+Neuburg am Rhein,RP,Germany,
+Durmersheim,BW,Germany,Karlsruhe
+Eggenstein-Leopoldshafen,BW,Germany,Karlsruhe
+Karlsbad,BW,Germany,Karlsruhe
+Karlsruhe,BW,Germany,Karlsruhe
+W€“rth am Rhein,RP,Germany,
+Pfinztal,BW,Germany,Karlsruhe
+Rheinstetten-M€“rsch,BW,Germany,Karlsruhe
+Weingarten,BW,Germany,Karlsruhe
+Bietigheim,BW,Germany,Karlsruhe
+Hagenbach,RP,Germany,
+Weingarten (Baden),BW,Germany,Karlsruhe
+Stutensee,BW,Germany,Karlsruhe
+Cote-Saint-Luc,QC,Germany,Montreal
+Waldbronn,BW,Germany,Karlsruhe
+Jockgrim,RP,Germany,
+Bruntsfield,EDH,UK,Edinburgh
+Wesley Chapel,NC,US,Charlotte
+Sainte-Anne-de-Bellevue,QC,Canada,Montreal
+New Dundee,ON,Canada,Waterloo
+Mckees Rocks,PA,US,Pittsburgh
+Montr€÷al-Ouest,QC,Canada,Montreal
+Allentown,PA,US,Pittsburgh
+Summerlin South,NV,US,Las Vegas
+Indian Land,SC,US,Charlotte
+Sainte-Th€÷r€—se,QC,Canada,Montreal
+L'€_le-Bizard,QC,Canada,Montreal
+LaSalle,QC,Canada,Montreal
+Rosem€—re,QC,Canada,Montreal
+Conestogo,ON,Canada,Waterloo
+St Leonard,QC,Canada,Montreal
+St-Laurent,QC,Canada,Montreal
+Edinburgh,KHL,UK,
+Saint Laurent,QC,Canada,Montreal
+Glendale Az,AZ,US,Phoenix
+Verona,PA,US,Pittsburgh
+Roxboro,QC,Canada,Montreal
+Qu€÷bec,QC,Canada,Montreal
+Oakland,PA,US,Pittsburgh
+Ft. Mill,SC,US,Charlotte
+Musselburgh,MLN,UK,
+Balerno,MLN,UK,
+Communaut€÷-Urbaine-de-Montr€÷al,QC,Canada,Montreal
+Glasgow,EDH,UK,Edinburgh
+Mt. Lebanon,PA,US,Pittsburgh
+Fort Mcdowell,AZ,US,Phoenix
+Ste-Rose,QC,Canada,Montreal
+Millvale,PA,US,Pittsburgh
+NELLIS AFB,NV,US,Las Vegas
+Gaston,NC,US,Charlotte
+Heidelberg,PA,US,Pittsburgh
+Cramond Bridge,EDH,UK,Edinburgh
+South Mountain,AZ,US,Phoenix
+Montreal-West,QC,Canada,Montreal
+Stutensee-Blankenloch,BW,Germany,Karlsruhe
+Bloomfield,PA,US,Pittsburgh
+Downtown,PA,US,Pittsburgh
+Lower Lawrenceville,PA,US,Pittsburgh
+Whitehall,PA,US,Pittsburgh
+Phoenix Sky Harbor Center,AZ,US,Phoenix
+Lawrenceville,PA,US,Pittsburgh
+Central City,AZ,US,Phoenix
+phoenix,AZ,US,Phoenix
+Queen Valley,AZ,US,Phoenix
+Stockbridge,EDH,UK,Edinburgh
+City of Edinburgh,EDH,UK,Edinburgh
+South Gyle,EDH,UK,Edinburgh
+Enterprise,NV,US,Las Vegas
+Loanhead,MLN,UK,
+Weddington,NC,US,Charlotte
+New Town,EDH,UK,Edinburgh
+Saint-laurent,QC,Canada,Montreal
+Asheville,NC,US,Charlotte
+Kahnawake,QC,Canada,Montreal
+Mascouche,QC,Canada,Montreal
+Bocholt,NW,Germany,
+Bruchsal,BW,Germany,Karlsruhe
+Gelndale,AZ,US,Phoenix
+St. Jacobs,ON,Canada,Waterloo
+Old Town,EDH,UK,Edinburgh
+Shorewood Hills,WI,US,Madison
+East Liberty,PA,US,Pittsburgh
+Central City Village,AZ,US,Phoenix
+Mcfarland,WI,US,Madison
+Arlington,AZ,US,Phoenix
+North Queensferry,FIF,UK,Edinburgh
+Stowe Township,PA,US,Pittsburgh
+Sun Prairie€_,WI,US,Madison
+Scottdale,AZ,US,Phoenix
+Saint Leonard,QC,Canada,Montreal
+Central,AZ,US,Phoenix
+Dollard-Des Ormeaux,QC,Canada,Montreal
+Portobello,EDH,UK,Edinburgh
+Repentigny,QC,Canada,Montreal
+Dane,WI,US,Madison
+Burrito King,IL,US,Urbana-Champaign
+Squirrel Hill,PA,US,Pittsburgh
+Laveen Village,AZ,US,Phoenix
+La Salle,QC,Canada,Montreal
+Saint-Henri,QC,Canada,Montreal
+Maricopa AZ,AZ,US,Phoenix
+St-Leonard,QC,Canada,Montreal
+Montreal,QC,Canada,Montreal
+Montreal-Ouest,QC,Canada,Montreal
+Edimbourg,EDH,UK,Edinburgh
+"Chomedey, Laval",QC,Canada,Montreal
+Blawnox,PA,US,Pittsburgh
+Montgomery,NC,US,Charlotte
+Chandler,AK,US,
+West Las Vegas,NV,US,Las Vegas
+LasVegas,NV,US,Las Vegas
+Fort  Mill,SC,US,Charlotte
