@@ -1,4 +1,4 @@
-area,university,longitude,latitude
+area,university,latitude,longitude
 Edinburgh,University of Edinburgh,55.949236,-3.188715
 Edinburgh,Heriot-Watt University,55.916008,-3.321408
 Edinburgh,Edinburgh Napier University,55.918727,-3.239828
@@ -29,7 +29,7 @@ Karlsruhe,Hochschule Karlsruhe-Technik und Wirtschaft,49.015856,8.389617
 Karlsruhe,Padagogische Hochschule Karlsruhe,49.01331,8.394376
 Karlsruhe,Hochschule fur Musik Karlsruhe,49.004575,8.427671
 Karlsruhe,Karlsruhe University of Arts and Design,49.001816,8.385647
-Karlsruhe,Academy of Fine Arts, Karlsruhe,49.013014,8.388496
+Karlsruhe,Academy of Fine Arts Karlsruhe,49.013014,8.388496
 Karlsruhe,Karlshochschule International University,49.006733,8.3956
 Waterloo,University of Waterloo,43.472472,-80.544858
 Waterloo,Wilfrid Laurier University,43.472917,-80.526329
