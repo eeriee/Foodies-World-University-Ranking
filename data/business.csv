@@ -1,4 +1,4 @@
-business_id,city,full_address,latitude,longitude,name,review_count,stars,state
+business_id,city,full_address,latitude,longitude,business_name,review_count,stars,state
 5UmKMjUEUNdYWqANhGckJw,Dravosburg,"4734 Lebanon Church Rd
 Dravosburg, PA 15034",40.3543266,-79.9007057,Mr Hoagie,7,3.5,PA
 mVHrayjG3uZ_RLHkLj-AMg,Braddock,"414 Hawkins Ave
