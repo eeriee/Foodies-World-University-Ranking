@@ -1,0 +1,155 @@
+/* Commom style */
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+body {
+	font-size: 16px;
+	font-family: sans-serif;
+	height: 100%;
+	color: #333333;
+}
+
+a {
+	color: #333333;
+	text-decoration:none;
+}
+
+
+
+.clear {
+	clear: both;
+}
+
+.container {
+	width: 1000px;
+	min-height: 350px;
+	position: relative;
+	margin: 0px auto;
+	border: 1px solid #d0d0d0;
+	box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12)!important;
+}
+
+.container .part1 {
+	position: relative;
+	width: 940px;
+	margin: 0 auto;
+}
+
+.container .part1 .name{
+	font-size: 30px;
+	padding-top: 20px;
+	float: left;
+}
+
+.container .part1 .star {
+	float: left;
+	padding-left: 20px;
+	padding-top: 30px;
+	color: yellow;
+	font-size: 18px;
+}
+
+.container .part1 .star_icon {
+	width: 20px;
+	height: 20px;
+	display: inline-block;
+	position: relative;
+	top: 3px;
+	left: 3px;
+}
+
+.container .part1 .dist {
+	float: left;
+	padding-left: 20px;
+	padding-top: 35px;
+}
+
+.container .part1 .review_count {
+	float: left;
+	padding-left: 20px;
+	padding-top: 35px;
+	color: #888;
+}
+
+.container .part2 {
+	position: relative;
+	width: 700px;
+	margin-left: 30px;
+	padding-top: 8px;
+}
+
+.container .part2 .address {
+	float: left;
+	margin-right: 30px;
+	color: #888;
+}
+
+.container .part2 .add_icon {
+	width: 20px;
+	height: 30px;
+}
+
+.container .part2 .city {
+	float: left;
+	margin: 16px 5px 0px;
+	color: #888;
+}
+
+.container .part2 .state {
+	float: left;
+	margin: 16px 5px 0px;
+	color: #888;
+}
+
+.container .part2 .tags {
+	color: #0073bb;
+	margin-top: 10px;
+}
+
+.container .part2 .tags span {
+	font-weight: bold;
+	color: #333;
+}
+
+.container .part3 {
+	position: absolute;
+	top: 60px;
+	right: 50px;
+	border: 1px dotted #e0e0e0;
+	box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.12), 0 2px 10px 0 rgba(0, 0, 0, 0.12)!important;
+}
+
+.container .part3 .opening {
+	padding: 15px 30px;
+}
+
+.container .part3 .opening p {
+	height: 25px;
+}
+.container .part3 .opening .opening_title {
+	font-weight: bold;
+	font-size: 18px;
+	margin-bottom: 10px;
+}
+
+.container .part4 {
+	width: 700px;
+	margin-left: 30px;
+	margin-top: 20px;
+	height: 180px;
+	overflow: scroll;
+}
+
+.container .part4 .highlights {
+	font-size: 20px;
+	font-weight: bold;
+	margin-bottom: 10px;
+}
+
+.container .part4 p {
+	float: left;
+	margin: 5px 15px 5px 0px;
+}
+

@@ -1,0 +1,262 @@
+/* Commom style */
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+body {
+	font-size: 16px;
+	font-family: sans-serif;
+	height: 100%;
+	color: #333333;
+}
+
+a {
+	color: #333333;
+	text-decoration:none;
+}
+
+/* body */
+
+/* Style the list */
+ul.tab {
+    list-style-type: none;
+    padding-left: 150px;
+    overflow: hidden;
+    /*border: 1px solid #ccc;*/
+    background-color: #f5f5f5;
+}
+
+ul.tab #homeLink {
+    font-weight: bold;
+}
+
+/* Float the list items side by side */
+ul.tab li {
+	float: left;
+}
+
+/* Style the links inside the list items */
+ul.tab li a {
+    display: inline-block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    color: #666;
+    transition: 0.3s;
+    font-size: 17px;
+}
+
+/* Change background color of links on hover */
+ul.tab li a:hover {
+	background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+ul.tab li a:focus, .active {
+	background-color: #ccc;
+}
+
+/* Style the tab content */
+.tabcontent {
+    position: relative;
+    display: none;
+    margin: 20px 150px 20px 165px;
+}
+
+#homeTab {
+    display: block;
+}
+
+#welcome {
+    text-align: center;
+    font-size: 50px;
+    margin: 0px auto;
+    margin-top: 300px;
+
+}
+
+.tabcontent .comment {
+    color: #bbb;
+}
+
+.tabcontent .search {
+    display: block;
+    position: absolute;
+    width: 400px;
+    top: 0px;
+    right: 0px;
+}
+
+.tabcontent .result {
+    margin-top: 20px;
+}
+
+
+.clear {
+    clear: both;
+}
+
+.container {
+    width: 1100px;
+    min-height: 400px;
+    position: relative;
+    margin: 10px auto;
+    margin-bottom: 30px;
+    border: 1px solid #d0d0d0;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12)!important;
+}
+
+.container .part1 {
+    margin-left: 30px;
+}
+
+.container .part1 .name{
+    font-size: 30px;
+    padding-top: 20px;
+    float: left;
+}
+
+.container .part1 .star {
+    float: left;
+    padding-left: 20px;
+    padding-top: 45px;
+    color: yellow;
+    font-size: 18px;
+}
+
+.container .part1 .star_icon {
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    position: relative;
+    top: -2px;
+    left: 3px;
+}
+
+.container .part1 .dist {
+    float: left;
+    padding-left: 20px;
+    padding-top: 46px;
+}
+
+.container .part1 .review_count {
+    float: left;
+    padding-left: 20px;
+    padding-top: 46px;
+    color: #888;
+}
+
+.container .part2 {
+    position: relative;
+    width: 700px;
+    margin-left: 30px;
+    padding-top: 8px;
+}
+
+.container .part2 .address {
+    float: left;
+    margin-right: 30px;
+    color: #888;
+}
+
+.container .part2 .add_icon {
+    width: 20px;
+    height: 30px;
+}
+
+.container .part2 .city {
+    float: left;
+    margin: 2px 5px 0px;
+    color: #888;
+}
+
+.container .part2 .state {
+    float: left;
+    margin: 2px 5px 0px;
+    color: #888;
+}
+
+.container .part2 .tags {
+    color: #0073bb;
+    margin-top: 10px;
+}
+
+.container .part2 .tags span {
+    font-weight: bold;
+    color: #333;
+}
+
+.container .part3 {
+    position: absolute;
+    top: 60px;
+    right: 50px;
+    border: 1px dotted #e0e0e0;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.12), 0 2px 10px 0 rgba(0, 0, 0, 0.12)!important;
+}
+
+.container .part3 .opening {
+    padding: 20px 30px;
+}
+
+.container .part3 .opening p {
+    height: 20px;
+}
+.container .part3 .opening .opening_title {
+    font-weight: bold;
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+.container .part4 {
+    width: 700px;
+    margin-left: 30px;
+    margin-top: 20px;
+    height: 160px;
+    overflow: scroll;
+}
+
+.container .part4 .highlights {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.container .part4 p {
+    float: left;
+    margin: 5px 15px 5px 0px;
+}
+
+.container .part5 {
+    width: 1000px;
+    margin: 30px 30px;
+    height: 300px;
+    overflow: scroll;
+}
+
+.container .part5 .reviews {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.container .part5 .review_block {
+    border-top: 1px solid #e0e0e0;
+    padding-top: 20px;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+    background-color: #f5f5f5;
+}
+
+.footer p {
+    width: 100%;
+    text-align: center;
+    margin-top: 20px;
+}
+
